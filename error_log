@@ -1,0 +1,213 @@
+[13-Sep-2022 14:24:32 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND 9196=4385 AND ('sSqd'='sSqd): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:32 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:32 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND 9715=8502 AND 'qiqr'='qiqr): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:32 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:32 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND 9836=1026 AND (8642=8642): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:32 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 2049=2742): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 8410=6030-- xcNP): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=(SELECT (CASE WHEN (6884=9938) THEN 'RXDG' ELSE (SELECT 9938 UNION SELECT 7382) END))): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND EXTRACTVALUE(2048,CONCAT(0x5c,0x7162627071,(SELECT (ELT(2048=2048,1))),0x71716b6a71)) AND ('KIDD'='KIDD): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND EXTRACTVALUE(2048,CONCAT(0x5c,0x7162627071,(SELECT (ELT(2048=2048,1))),0x71716b6a71)) AND 'GRBV'='GRBV): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND EXTRACTVALUE(2048,CONCAT(0x5c,0x7162627071,(SELECT (ELT(2048=2048,1))),0x71716b6a71)) AND (9206=9206): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND EXTRACTVALUE(2048,CONCAT(0x5c,0x7162627071,(SELECT (ELT(2048=2048,1))),0x71716b6a71))): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:34 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND EXTRACTVALUE(2048,CONCAT(0x5c,0x7162627071,(SELECT (ELT(2048=2048,1))),0x71716b6a71))-- FAFj): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND 1427=CAST((CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113))||(SELECT (CASE WHEN (1427=1427) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)) AS NUMERIC) AND ('AIGw'='AIGw): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND 1427=CAST((CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113))||(SELECT (CASE WHEN (1427=1427) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)) AS NUMERIC) AND 'VeVr'='VeVr): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND 1427=CAST((CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113))||(SELECT (CASE WHEN (1427=1427) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)) AS NUMERIC) AND (4545=4545): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 1427=CAST((CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113))||(SELECT (CASE WHEN (1427=1427) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)) AS NUMERIC)): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 1427=CAST((CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113))||(SELECT (CASE WHEN (1427=1427) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)) AS NUMERIC)-- hoqP): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND 8695 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(98)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (8695=8695) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113))) AND ('JumK'='JumK): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:35 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND 8695 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(98)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (8695=8695) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113))) AND 'gvFA'='gvFA): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND 8695 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(98)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (8695=8695) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113))) AND (2959=2959): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 8695 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(98)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (8695=8695) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)))): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 8695 IN (SELECT (CHAR(113)+CHAR(98)+CHAR(98)+CHAR(112)+CHAR(113)+(SELECT (CASE WHEN (8695=8695) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(113)+CHAR(107)+CHAR(106)+CHAR(113)))-- QbSu): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND 2829=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113)||(SELECT (CASE WHEN (2829=2829) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND ('yazX'='yazX): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND 2829=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113)||(SELECT (CASE WHEN (2829=2829) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND 'enmY'='enmY): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND 2829=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113)||(SELECT (CASE WHEN (2829=2829) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL) AND (4580=4580): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 2829=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113)||(SELECT (CASE WHEN (2829=2829) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL)): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:36 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 2829=(SELECT UPPER(XMLType(CHR(60)||CHR(58)||CHR(113)||CHR(98)||CHR(98)||CHR(112)||CHR(113)||(SELECT (CASE WHEN (2829=2829) THEN 1 ELSE 0 END) FROM DUAL)||CHR(113)||CHR(113)||CHR(107)||CHR(106)||CHR(113)||CHR(62))) FROM DUAL)-- btdw): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=(SELECT CONCAT(CONCAT('qbbpq',(CASE WHEN (1998=1998) THEN '1' ELSE '0' END)),'qqkjq'))): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG');SELECT PG_SLEEP(5)--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG';SELECT PG_SLEEP(5)--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG);SELECT PG_SLEEP(5)--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG;SELECT PG_SLEEP(5)--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG');WAITFOR DELAY '0:0:5'--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG';WAITFOR DELAY '0:0:5'--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:37 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:38 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG);WAITFOR DELAY '0:0:5'--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:38 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:38 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG;WAITFOR DELAY '0:0:5'--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:38 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:38 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG');SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(120)||CHR(76)||CHR(85)||CHR(69),5) FROM DUAL--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:38 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(120)||CHR(76)||CHR(85)||CHR(69),5) FROM DUAL--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(120)||CHR(76)||CHR(85)||CHR(69),0) FROM DUAL--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG';SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(120)||CHR(76)||CHR(85)||CHR(69),5) FROM DUAL--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG);SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(120)||CHR(76)||CHR(85)||CHR(69),5) FROM DUAL--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG;SELECT DBMS_PIPE.RECEIVE_MESSAGE(CHR(120)||CHR(76)||CHR(85)||CHR(69),5) FROM DUAL--): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND (SELECT 1096 FROM (SELECT(SLEEP(5)))VdSn) AND ('WjII'='WjII): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND (SELECT 1096 FROM (SELECT(SLEEP(5)))VdSn) AND 'EKFt'='EKFt): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND (SELECT 1096 FROM (SELECT(SLEEP(5)))VdSn) AND (8473=8473): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:40 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND (SELECT 1096 FROM (SELECT(SLEEP(5)))VdSn)): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND (SELECT 1096 FROM (SELECT(SLEEP(5)))VdSn)-- kSHH): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND 1110=(SELECT 1110 FROM PG_SLEEP(5)) AND ('qFds'='qFds): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND 1110=(SELECT 1110 FROM PG_SLEEP(5)) AND 'xBKL'='xBKL): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND 1110=(SELECT 1110 FROM PG_SLEEP(5)) AND (5963=5963): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:41 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 1110=(SELECT 1110 FROM PG_SLEEP(5))): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 1110=(SELECT 1110 FROM PG_SLEEP(5))-- NtYN): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') WAITFOR DELAY '0:0:5' AND ('dGTf'='dGTf): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' WAITFOR DELAY '0:0:5' AND 'rECj'='rECj): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) WAITFOR DELAY '0:0:5' AND (7415=7415): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG WAITFOR DELAY '0:0:5'): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG WAITFOR DELAY '0:0:5'-- PQRA): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:42 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') AND 8528=DBMS_PIPE.RECEIVE_MESSAGE(CHR(103)||CHR(122)||CHR(107)||CHR(90),5) AND ('uPOl'='uPOl): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' AND 8528=DBMS_PIPE.RECEIVE_MESSAGE(CHR(103)||CHR(122)||CHR(107)||CHR(90),5) AND 'RCvh'='RCvh): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) AND 8528=DBMS_PIPE.RECEIVE_MESSAGE(CHR(103)||CHR(122)||CHR(107)||CHR(90),5) AND (6677=6677): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 8528=DBMS_PIPE.RECEIVE_MESSAGE(CHR(103)||CHR(122)||CHR(107)||CHR(90),5)): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG AND 8528=DBMS_PIPE.RECEIVE_MESSAGE(CHR(103)||CHR(122)||CHR(107)||CHR(90),5)-- NbFv): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') ORDER BY 1-- laXt): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:43 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG') ORDER BY 5019-- pfhq): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' ORDER BY 1-- izdP): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG' ORDER BY 5787-- PSSt): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) ORDER BY 1-- iRNf): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG) ORDER BY 3252-- HIJm): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:44 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG ORDER BY 1-- GBhf): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG ORDER BY 2528-- fiVL): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG ORDER BY 1-- XIOH): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  file_get_contents(https://www.google.com/recaptcha/api/siteverify?secret=6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN&amp;response=RXDG ORDER BY 1771-- pvxn): Failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 29
+[13-Sep-2022 14:24:45 asia/kolkata] PHP Warning:  Attempt to read property "success" on null in /home2/pramihkt/public_html/p2fsemi.com/contact-action.php on line 38

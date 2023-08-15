@@ -1,0 +1,307 @@
+<?php
+
+	session_start();
+
+	require_once("./phpincludes/commonfunctions.php");
+
+	//require_once("./phpincludes/connection.php");
+
+	include("./phpincludes/smtp-details.php");
+
+	date_default_timezone_set('asia/kolkata');
+
+	if($_SERVER['REQUEST_METHOD'] === 'POST' && isset($_POST['recaptcha_responsenew'])) 
+
+	{
+
+		// Build POST request:
+
+		$recaptcha_url = 'https://www.google.com/recaptcha/api/siteverify';
+
+		$recaptcha_secret = '6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN';
+
+		$recaptcha_response = $_POST['recaptcha_responsenew'];
+
+
+
+		// Make and decode POST request:
+
+		$recaptcha = file_get_contents($recaptcha_url . '?secret=' . $recaptcha_secret . '&response=' . $recaptcha_response);
+
+		$recaptcha = json_decode($recaptcha);
+
+
+
+		// Take action based on the score returned:
+
+		//if ($recaptcha->score >= 0.5) 
+		if($recaptcha->success)
+		{
+
+			if(isset($_POST['name']) && $_POST['name'] != "")
+
+			{	
+
+				if(!preg_match("/[A-Za-z]/", $_POST['name']))
+
+				{
+
+					$_SESSION['Error'] = "Invalid Data";
+
+					$_SESSION['Post'] = $_POST;
+
+					header("Location:".$_SERVER['HTTP_REFERER']);
+
+					exit();
+
+				}
+
+				if(!preg_match("/^[-\w.]+@([A-z0-9][-A-z0-9]+\.)+[A-z]{2,4}$/", $_POST['email']))
+
+				{
+
+					$_SESSION['Error'] = "Invalid Data";
+
+					$_SESSION['Post'] = $_POST;
+
+					header("Location:".$_SERVER['HTTP_REFERER']);
+
+					exit();
+
+				}
+
+				if(!preg_match("/^[0-9]*$/", $_POST['phone']))
+
+				{
+
+					$_SESSION['Error'] = "Invalid Data";
+
+					$_SESSION['Post'] = $_POST;
+
+					header("Location:".$_SERVER['HTTP_REFERER']);
+
+					exit();
+
+				}
+
+				
+
+				$fp=fopen("./mailer/ContactMailer.html","r");
+
+				$message= fread($fp,filesize("./mailer/ContactMailer.html"));
+
+				
+
+				$DateTime = convertDBDateTime(date("Y-m-d H:i:s"));
+
+				$Subject = "P2F SEMI - Contact form posted by ".$_POST['name']. " on ".$DateTime;
+
+				$_POST['RegTime']=date("Y-m-d H:i:s");
+
+						
+
+
+
+				$message=str_replace('$Name', $_POST['name'],$message);
+
+				$message=str_replace('$Email',$_POST['email'],$message);
+
+				$message=str_replace('$Phone',$_POST['phone'],$message);
+
+				$message=str_replace('$Message', $_POST['message'],$message);
+
+
+				$message=str_replace('$DateTime', $DateTime,$message);
+
+
+				//echo $message; exit();
+
+				include("class.phpmailer.php");
+
+				$mail             = new PHPMailer1();
+
+				$body             = $message;
+
+				$mail->IsSMTP(); // telling the class to use SMTP
+
+				$mail->Host       = $SmtpHost; // SMTP server
+
+				$mail->SMTPDebug  = 1;                     // enables SMTP debug information (for testing)
+
+														// 1 = errors and messages
+
+														// 2 = messages only
+
+				$mail->SMTPAuth   = true;                  // enable SMTP authentication
+
+				// $mail->SMTPSecure = "tls";                 // sets the prefix to the servier
+
+				// $mail->Host       = $SmtpHost;      // sets  as the SMTP server
+
+				$mail->Port       = $SmtpPort;                 // set the SMTP port for the server
+
+				$mail->Username   = $SmtpUserName;  // username
+
+				$mail->Password   = $SmtpPassword;            // password
+
+						
+
+				$mail->SetFrom($FromEmail, "P2F SEMI Contact");
+
+				
+
+				$mail->Subject    = $Subject;
+
+				$mail->MsgHTML($body);
+
+						
+
+				$mail->AddAddress($RecipientMailId);
+
+				$mail->AddCC($RecipientMailIdCC);
+
+						
+
+				if(!$mail->Send()) 
+
+				{
+
+				//echo "Mailer Error: " . $mail->ErrorInfo; exit;
+
+				} 
+
+				else 
+
+				{
+
+				 //echo "Message sent!"; exit;
+
+				}
+
+				
+
+				// Code to inser data in 3 rd party application start
+
+					// $param['secret_key']= "6Lf3VSsfAAAAAKRyIGLHXEcA5coRJ_IMOAqKkfNN";
+                     // api key generated in BMS System
+
+					//$param['secret_key']= "6LcAYAIbAAAAACnP_zO5zNs6otZ_vcAVvegDnMxD"; // api key generated in BMS System
+
+								
+
+					// start – Customer Details 
+
+						// $param['api_record'] = '16';
+
+						// $param['first_name'] = $_POST['name'];
+
+						// $param['middle_name'] = '';
+
+						// $param['last_name'] = '';
+
+						// $param['country_code'] = '91';
+
+						// $param['mobile_no'] = $_POST['phone'];
+
+						// $param['email_id'] = $_POST['email'];
+
+						// $param['other1'] = $_POST['comments'];
+
+						// $param['project_name'] = 'Mont Vert Belcreek';
+
+
+					
+
+					/*echo "<pre>";
+
+					print_r($param);
+
+					exit;*/
+
+					
+
+						// $url = "https://bms.montverthomes.co.in/bmsPushApi";
+
+
+
+					
+
+						// $ch = curl_init($url);
+
+						//print_r($ch); exit;
+
+					
+
+						// curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+						// curl_setopt($ch, CURLOPT_POSTFIELDS, $param);
+
+						// execute!
+
+						// $response = curl_exec($ch);
+
+						//print_r($response); exit;
+
+					
+
+						// close the connection, release resources used
+
+					
+
+						// curl_close($ch);
+
+				// Code to inser data in 3 rd party application end
+
+				
+
+				header("location:thank-you.php");
+
+				exit();
+
+				
+
+			} // End of if(isset($_POST['form_name']) && $_POST['form_name'] != "")
+
+			else
+
+			{
+
+				header("Location:index.php");
+
+				exit();		
+
+			}
+
+		}
+
+		else
+
+		{
+
+			echo ("<script LANGUAGE='JavaScript'>
+
+			window.alert('Captcha verification failed, Please try again');
+
+			window.location.href='index.php';
+
+			</script>");
+
+		}
+
+	}
+
+	else
+
+	{
+
+		echo ("<script LANGUAGE='JavaScript'>
+
+		window.alert('Error Occurred, Please try again');
+
+		window.location.href='index.php';
+
+		</script>");
+
+	}
+
+?>
